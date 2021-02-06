@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import color from "./assets/colors.json";
+import color from "../assets/colors.json";
 import { CopyToClipboard } from "react-copy-to-clipboard";
-import "./App.css";
+import "../assets/css/App.css"
 
 function App() {
   const [colors, setColors] = useState<any>(null);
