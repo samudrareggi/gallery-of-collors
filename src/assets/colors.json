@@ -1,0 +1,204 @@
+{
+  "colors": [
+    {
+      "color": "LightSalmon",
+      "category": "Red",
+      "hex": "#FFA07A"
+    },
+    {
+      "color": "Crimson",
+      "category": "Red",
+      "hex": "#DC143C"
+    },
+    {
+      "color": "Red",
+      "category": "Red",
+      "hex": "#FF0000"
+    },
+    {
+      "color": "FireBrick",
+      "category": "Red",
+      "hex": "#B22222"
+    },
+    {
+      "color": "DarkRed",
+      "category": "Red",
+      "hex": "#8B0000"
+    },
+    {
+      "color": "Pink",
+      "category": "Pink",
+      "hex": "#FFC0CB"
+    },
+    {
+      "color": "LightPink",
+      "category": "Pink",
+      "hex": "#FFB6C1"
+    },
+    {
+      "color": "HotPink",
+      "category": "Pink",
+      "hex": "#FF69B4"
+    },
+    {
+      "color": "DeepPink",
+      "category": "Pink",
+      "hex": "#FF1493"
+    },
+    {
+      "color": "MediumVioletRed",
+      "category": "Pink",
+      "hex": "#C71585"
+    },
+    {
+      "color": "Coral",
+      "category": "Orange",
+      "hex": "#FF7F50"
+    },
+    {
+      "color": "Tomato",
+      "category": "Orange",
+      "hex": "#FF6347"
+    },
+    {
+      "color": "OrangeRed",
+      "category": "Orange",
+      "hex": "#FF4500"
+    },
+    {
+      "color": "DarkOrange",
+      "category": "Orange",
+      "hex": "#FF8C00"
+    },
+    {
+      "color": "Orange",
+      "category": "Orange",
+      "hex": "#FFA500"
+    },
+    {
+      "color": "Gold",
+      "category": "Yellow",
+      "hex": "#FFD700"
+    },
+    {
+      "color": "Yellow",
+      "category": "Yellow",
+      "hex": "#FFFF00"
+    },
+    {
+      "color": "LemonChiffon",
+      "category": "Yellow",
+      "hex": "#FFFACD"
+    },
+    {
+      "color": "Khaki",
+      "category": "Yellow",
+      "hex": "#F0E68C"
+    },
+    {
+      "color": "DarkKhaki",
+      "category": "Yellow",
+      "hex": "#BDB76B"
+    },
+    {
+      "color": "Lime",
+      "category": "Green",
+      "hex": "#00FF00"
+    },
+    {
+      "color": "LightGreen",
+      "category": "Green",
+      "hex": "#90EE90"
+    },
+    {
+      "color": "Green",
+      "category": "Green",
+      "hex": "#008000"
+    },
+    {
+      "color": "DarkGreen",
+      "category": "Green",
+      "hex": "#006400"
+    },
+    {
+      "color": "MediumAquamarine",
+      "category": "Green",
+      "hex": "#66CDAA"
+    },
+    {
+      "color": "Cyan",
+      "category": "Blue",
+      "hex": "#00FFFF"
+    },
+    {
+      "color": "SkyBlue",
+      "category": "Blue",
+      "hex": "#87CEEB"
+    },
+    {
+      "color": "Blue",
+      "category": "Blue",
+      "hex": "#0000FF"
+    },
+    {
+      "color": "DarkBlue",
+      "category": "Blue",
+      "hex": "#00008B"
+    },
+    {
+      "color": "Navy",
+      "category": "Blue",
+      "hex": "#000080"
+    },
+    {
+      "color": "Wheat",
+      "category": "Brown",
+      "hex": "#F5DEB3"
+    },
+    {
+      "color": "Chocolate",
+      "category": "Brown",
+      "hex": "#D2691E"
+    },
+    {
+      "color": "Sienna",
+      "category": "Brown",
+      "hex": "#A0522D"
+    },
+    {
+      "color": "Brown",
+      "category": "Brown",
+      "hex": "#A52A2A"
+    },
+    {
+      "color": "Maroon",
+      "category": "Brown",
+      "hex": "#800000"
+    },
+    {
+      "color": "Gainsboro",
+      "category": "Gray",
+      "hex": "#DCDCDC"
+    },
+    {
+      "color": "Silver",
+      "category": "Gray",
+      "hex": "#C0C0C0"
+    },
+    {
+      "color": "Gray",
+      "category": "Gray",
+      "hex": "#808080"
+    },
+    {
+      "color": "DarkSlateGray",
+      "category": "Gray",
+      "hex": "#2F4F4F"
+    },
+    {
+      "color": "Black",
+      "category": "Gray",
+      "hex": "#000000"
+    }
+  ]
+}
